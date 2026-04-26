@@ -1,8 +1,8 @@
 class Rdr < Formula
   desc "CLI for calling Core Lightning Commando RPCs over lnsocket"
   homepage "https://github.com/nepet/cln-rdr"
-  url "https://github.com/nepet/cln-rdr/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "8d8cd3702beeede02c055ac76dc441066986e51a2f8a8d2ba20b2e3a10fce559"
+  url "https://github.com/nepet/cln-rdr/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "9c8ba88d9173897b0a2b708ff595ea905d29ae398744ad1dcac24761913009db"
   license "MIT"
 
   depends_on "rust" => :build
